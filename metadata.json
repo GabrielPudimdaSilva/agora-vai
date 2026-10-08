@@ -2,5 +2,7 @@
   "name": "FabriPCP - ERP & Gestão da Produção",
   "description": "Sistema completo de ERP e PCP para pequenas empresas: cadastro de insumos, ficha técnica, clientes, capacidade produtiva, pedidos, ordens de produção e emissão de documentos técnicos.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
